@@ -1,0 +1,15 @@
+html
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Roboto', Arial, sans-serif;
+    background-color: rgb(252, 252, 252);
+}
+
+body
+{
+    width: 70%;
+    margin: 30px;
+}
+
