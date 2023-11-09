@@ -58,14 +58,6 @@ nav a:hover
 }
 
 @media (max-width: 800px) {
-    html 
-    {
-      font-size: large;
-    }
-    a
-    {
-        font-size: large !important;
-    }
     nav
     {
         display: flex;
