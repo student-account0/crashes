@@ -60,11 +60,11 @@ nav a:hover
 @media (max-width: 800px) {
     html 
     {
-      font-size: xx-large;
+      font-size: large;
     }
     a
     {
-        font-size: 1rem !important;
+        font-size: large !important;
     }
     nav
     {
