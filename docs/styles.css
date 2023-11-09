@@ -96,4 +96,12 @@ iframe
         justify-content: left;
         align-items: normal;
     }
+    .flex
+    {
+        flex-direction: column;
+    }
+    .child
+    {
+        width: 100%;
+    }
 }
