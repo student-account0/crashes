@@ -11,6 +11,25 @@ body
     padding: 0;
 }
 
+.datawrapper
+{
+    font-family: Roboto;
+    color: rgb(0, 0, 0);
+    font-weight: 700;
+    font-size: 22px;
+    margin-bottom: 10px;
+}
+
+.dwcaption
+{
+    margin-top: 0px;
+    margin-bottom: 10px;
+    font-size: 14px;
+    line-height: 17px;
+    color: rgb(24, 24, 24);
+    font-family: Roboto, sans-serif;
+}
+
 .center
 {
     display: flex;
@@ -59,8 +78,12 @@ nav a:hover
 
 iframe
 {
-    margin-top: 30px;
-    margin-bottom: 30px;
+    margin-bottom: 35px;
+}
+
+.bumper
+{
+    margin-top: 35px;
 }
 
 .flex
