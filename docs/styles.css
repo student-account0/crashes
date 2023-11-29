@@ -104,6 +104,13 @@ header
     margin: 0px;
 }
 
+header
+{
+    background-color: black;
+    padding: 10px;
+    margin: 0px;
+}
+
 @media (max-width: 800px) {
     nav
     {
