@@ -41,6 +41,8 @@ article
 {
     width: 70%;
     margin: 30px;
+    max-width: 50em;
+    margin-bottom: 6em;
 }
 
 main
